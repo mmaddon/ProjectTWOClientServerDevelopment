@@ -30,3 +30,9 @@ at Water when the program first runs:
 ![dog4](https://user-images.githubusercontent.com/79174370/145739175-d4ce66c7-3769-458f-8a9e-e58ca41baf52.png)
 ![dog5](https://user-images.githubusercontent.com/79174370/145739178-7436c303-a080-40ee-bfd0-5efff9b27c8f.png)
 ![dog6](https://user-images.githubusercontent.com/79174370/145739210-122bc5b8-c821-4136-9ab1-7e1e035234c2.png)
+
+        Taking notes and recycling code is the best way to keep programs maintainable, readable, and adaptable.  By explaining what is going on during the code, however using layman's terms keeps the confusion for any other user looking at what was completed to a minimum.  In utilizing the CRUD Python module, user/programmers can create tables for viewing and utilizing information in conjunction with updating MongoDB collections and databases.   
+
+        The best way to approach a problem as a computer scientist is utlizing trial and error and recycling from previous projects.  That form of exercise has been the only way that I have been able complete my projects including the project with Grazioso Salvare.  I am going to continue to utilize such forms of exercise because for the moment there just doesn't seem to be any other method.  
+
+        Computer Scientists are for developing information utilizing different arrays through code in order to help companies become more technologically expeditious and provide accurate numerical and word information.  This world is ran by technological information and in order for businesses to succeed the skills and experience of Computer Scientists can keep businesses up-to-date and excel along side other companies.  This work would help companies, such as Grazioso Salvare, be able to examine information and cut other unnecessary information help prioritize things that need attention and other left alone. This form of thinking will help companies continue to grow with less mistakes, such as utilizing unnecessary information.  
